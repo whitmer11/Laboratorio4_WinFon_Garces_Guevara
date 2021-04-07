@@ -1,0 +1,13 @@
+D:\UPT\Programacion 2\Win_Forn\Laboratorio4_WinFon_Garces_Guevara\bin\Debug\Laboratorio4_WinFon_Garces_Guevara.exe.config
+D:\UPT\Programacion 2\Win_Forn\Laboratorio4_WinFon_Garces_Guevara\bin\Debug\Laboratorio4_WinFon_Garces_Guevara.exe
+D:\UPT\Programacion 2\Win_Forn\Laboratorio4_WinFon_Garces_Guevara\bin\Debug\Laboratorio4_WinFon_Garces_Guevara.pdb
+D:\UPT\Programacion 2\Win_Forn\Laboratorio4_WinFon_Garces_Guevara\obj\Debug\Laboratorio4_WinFon_Garces_Guevara.csprojAssemblyReference.cache
+D:\UPT\Programacion 2\Win_Forn\Laboratorio4_WinFon_Garces_Guevara\obj\Debug\Laboratorio4_WinFon_Garces_Guevara.Form1.resources
+D:\UPT\Programacion 2\Win_Forn\Laboratorio4_WinFon_Garces_Guevara\obj\Debug\Laboratorio4_WinFon_Garces_Guevara.Properties.Resources.resources
+D:\UPT\Programacion 2\Win_Forn\Laboratorio4_WinFon_Garces_Guevara\obj\Debug\Laboratorio4_WinFon_Garces_Guevara.csproj.GenerateResource.cache
+D:\UPT\Programacion 2\Win_Forn\Laboratorio4_WinFon_Garces_Guevara\obj\Debug\Laboratorio4_WinFon_Garces_Guevara.csproj.CoreCompileInputs.cache
+D:\UPT\Programacion 2\Win_Forn\Laboratorio4_WinFon_Garces_Guevara\obj\Debug\Laboratorio4_WinFon_Garces_Guevara.exe
+D:\UPT\Programacion 2\Win_Forn\Laboratorio4_WinFon_Garces_Guevara\obj\Debug\Laboratorio4_WinFon_Garces_Guevara.pdb
+D:\UPT\Programacion 2\Win_Forn\Laboratorio4_WinFon_Garces_Guevara\obj\Debug\Laboratorio4_WinFon_Garces_Guevara.Form2.resources
+D:\UPT\Programacion 2\Win_Forn\Laboratorio4_WinFon_Garces_Guevara\obj\Debug\Laboratorio4_WinFon_Garces_Guevara.Form3.resources
+D:\UPT\Programacion 2\Win_Forn\Laboratorio4_WinFon_Garces_Guevara\obj\Debug\Laboratorio4_WinFon_Garces_Guevara.Form4.resources
